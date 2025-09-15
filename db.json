@@ -1,0 +1,100 @@
+{
+   "photos":[
+      {
+         "id":1,
+         "albumId":1,
+         "title":"Passeio no lago",
+         "description":"Passeio de barco em um lago.",
+         "url":"https://picsum.photos/id/1011/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1011/200/120"
+      },
+      {
+         "id":2,
+         "albumId":1,
+         "title":"Montanha nevada",
+         "description":"Paisagem de montanha com neve.",
+         "url":"https://picsum.photos/id/1015/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1015/200/120"
+      },
+      {
+         "id":3,
+         "albumId":1,
+         "title":"Ursos na neve",
+         "description":"Animais em seu habitat natural.",
+         "url":"https://picsum.photos/id/1020/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1020/200/120"
+      },
+      {
+         "id":4,
+         "albumId":2,
+         "title":"Cachorro com frio",
+         "description":"Um animal de estimação.",
+         "url":"https://picsum.photos/id/1025/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1025/200/120"
+      },
+      {
+         "id":5,
+         "albumId":2,
+         "title":"Predio moderno",
+         "description":"Arquitetura urbana moderna.",
+         "url":"https://picsum.photos/id/1031/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1031/200/120"
+      },
+      {
+         "id":6,
+         "albumId":2,
+         "title":"Cascada",
+         "description":"Uma queda d'água na natureza.",
+         "url":"https://picsum.photos/id/1035/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1035/200/120"
+      },
+      {
+         "id":7,
+         "albumId":3,
+         "title":"Castelo",
+         "description":"Uma construção histórica.",
+         "url":"https://picsum.photos/id/1040/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1040/200/120"
+      },
+      {
+         "id":8,
+         "albumId":3,
+         "title":"Montanha nevada",
+         "description":"Cenário de montanhas no inverno.",
+         "url":"https://picsum.photos/id/1045/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1045/200/120"
+      },
+      {
+         "id":9,
+         "albumId":3,
+         "title":"No mar",
+         "description":"Paisagem do oceano.",
+         "url":"https://picsum.photos/id/1050/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1050/200/120"
+      },
+      {
+         "id":10,
+         "albumId":4,
+         "title":"Deserto",
+         "description":"Vista de um deserto.",
+         "url":"https://picsum.photos/id/1055/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1055/200/120"
+      },
+      {
+         "id":11,
+         "albumId":4,
+         "title":"Café",
+         "description":"Uma bebida quente.",
+         "url":"https://picsum.photos/id/1060/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1060/200/120"
+      },
+      {
+         "id":12,
+         "albumId":4,
+         "title":"Praia",
+         "description":"Cena de uma praia.",
+         "url":"https://picsum.photos/id/1065/600/400",
+         "thumbnailUrl":"https://picsum.photos/id/1065/200/120"
+      }
+   ]
+}
