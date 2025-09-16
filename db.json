@@ -106,7 +106,7 @@
       },
       {
          "id":14,
-         "albumId":15,
+         "albumId":12,
          "title":"Deserto 2",
          "description":"Vista de um deserto.",
          "url":"https://picsum.photos/id/1055/600/400",
@@ -114,7 +114,7 @@
       },
       {
          "id":15,
-         "albumId":16,
+         "albumId":12,
          "title":"Café",
          "description":"Uma bebida quente.",
          "url":"https://picsum.photos/id/1060/600/400",
@@ -122,23 +122,15 @@
       },
       {
          "id":16,
-         "albumId":16,
+         "albumId":12,
          "title":"Praia",
          "description":"Cena de uma praia.",
          "url":"https://picsum.photos/id/1065/600/400",
          "thumbnailUrl":"https://picsum.photos/id/1065/200/120"
       },
       {
-         "id":1,
-         "albumId":1,
-         "title":"Passeio no lago",
-         "description":"Passeio de barco em um lago.",
-         "url":"https://picsum.photos/id/1011/600/400",
-         "thumbnailUrl":"https://picsum.photos/id/1011/200/120"
-      },
-      {
          "id":24,
-         "albumId":24,
+         "albumId":14,
          "title":"Fazenda rural",
          "description":"Paisagem agrícola.",
          "url":"https://picsum.photos/id/1094/600/400",
@@ -146,7 +138,7 @@
       },
       {
          "id":25,
-         "albumId":25,
+         "albumId":14,
          "title":"Montanha ao amanhecer",
          "description":"Vista de montanha com sol nascente.",
          "url":"https://picsum.photos/id/1095/600/400",
@@ -154,7 +146,7 @@
       },
       {
          "id":26,
-         "albumId":25,
+         "albumId":15,
          "title":"Cachoeira tranquila",
          "description":"Água caindo suavemente.",
          "url":"https://picsum.photos/id/1096/600/400",
@@ -162,7 +154,7 @@
       },
       {
          "id":27,
-         "albumId":26,
+         "albumId":15,
          "title":"Floresta densa",
          "description":"Árvores verdes e altas.",
          "url":"https://picsum.photos/id/1097/600/400",
@@ -170,7 +162,7 @@
       },
       {
          "id":28,
-         "albumId":26,
+         "albumId":15,
          "title":"Trilha urbana",
          "description":"Caminho entre prédios modernos.",
          "url":"https://picsum.photos/id/1098/600/400",
@@ -178,7 +170,7 @@
       },
       {
          "id":29,
-         "albumId":27,
+         "albumId":9,
          "title":"Lago sereno",
          "description":"Água calma refletindo o céu.",
          "url":"https://picsum.photos/id/1099/600/400",
@@ -186,7 +178,7 @@
       },
       {
          "id":30,
-         "albumId":27,
+         "albumId":9,
          "title":"Campo verde",
          "description":"Pastagem ampla e verde.",
          "url":"https://picsum.photos/id/1100/600/400",
@@ -194,7 +186,7 @@
       },
       {
          "id":31,
-         "albumId":28,
+         "albumId":9,
          "title":"Pôr do sol na praia",
          "description":"Sol se pondo sobre o mar.",
          "url":"https://picsum.photos/id/1101/600/400",
@@ -202,7 +194,7 @@
       },
       {
          "id":32,
-         "albumId":28,
+         "albumId":9,
          "title":"Barco no lago",
          "description":"Pequeno barco à deriva.",
          "url":"https://picsum.photos/id/1102/600/400",
@@ -210,7 +202,7 @@
       },
       {
          "id":33,
-         "albumId":29,
+         "albumId":299,
          "title":"Montanha nevada",
          "description":"Cume coberto de neve.",
          "url":"https://picsum.photos/id/1103/600/400",
@@ -218,7 +210,7 @@
       },
       {
          "id":34,
-         "albumId":29,
+         "albumId":9,
          "title":"Cachoeira grande",
          "description":"Água caindo com força.",
          "url":"https://picsum.photos/id/1104/600/400",
@@ -226,7 +218,7 @@
       },
       {
          "id":35,
-         "albumId":30,
+         "albumId":4,
          "title":"Praia deserta",
          "description":"Areia branca e mar calmo.",
          "url":"https://picsum.photos/id/1105/600/400",
@@ -234,7 +226,7 @@
       },
       {
          "id":36,
-         "albumId":30,
+         "albumId":4,
          "title":"Ponte antiga",
          "description":"Ponte de pedra sobre rio.",
          "url":"https://picsum.photos/id/1106/600/400",
@@ -242,7 +234,7 @@
       },
       {
          "id":37,
-         "albumId":31,
+         "albumId":13,
          "title":"Cidade antiga",
          "description":"Prédios históricos e ruas estreitas.",
          "url":"https://picsum.photos/id/1107/600/400",
@@ -250,7 +242,7 @@
       },
       {
          "id":38,
-         "albumId":31,
+         "albumId":14,
          "title":"Praça central",
          "description":"Centro da cidade com fonte.",
          "url":"https://picsum.photos/id/1108/600/400",
@@ -258,7 +250,7 @@
       },
       {
          "id":39,
-         "albumId":32,
+         "albumId":14,
          "title":"Trilha montanhosa",
          "description":"Caminho em terreno acidentado.",
          "url":"https://picsum.photos/id/1109/600/400",
@@ -266,7 +258,7 @@
       },
       {
          "id":40,
-         "albumId":32,
+         "albumId":14,
          "title":"Riacho",
          "description":"Água corrente entre pedras.",
          "url":"https://picsum.photos/id/1110/600/400",
@@ -274,7 +266,7 @@
       },
       {
          "id":41,
-         "albumId":33,
+         "albumId":14,
          "title":"Jardim florido",
          "description":"Flores coloridas em um jardim.",
          "url":"https://picsum.photos/id/1111/600/400",
@@ -282,7 +274,7 @@
       },
       {
          "id":42,
-         "albumId":33,
+         "albumId":15,
          "title":"Caminho arborizado",
          "description":"Trilha cercada de árvores.",
          "url":"https://picsum.photos/id/1112/600/400",
@@ -290,7 +282,7 @@
       },
       {
          "id":43,
-         "albumId":33,
+         "albumId":15,
          "title":"Lago sereno",
          "description":"Água tranquila refletindo o céu.",
          "url":"https://picsum.photos/id/1113/600/400",
@@ -298,7 +290,7 @@
       },
       {
          "id":44,
-         "albumId":33,
+         "albumId":15,
          "title":"Pôr do sol na colina",
          "description":"Sol se pondo em um vale.",
          "url":"https://picsum.photos/id/1114/600/400",
@@ -306,7 +298,7 @@
       },
       {
          "id":45,
-         "albumId":34,
+         "albumId":15,
          "title":"Praia ao amanhecer",
          "description":"Areia e mar com o sol nascente.",
          "url":"https://picsum.photos/id/1115/600/400",
@@ -314,7 +306,7 @@
       },
       {
          "id":46,
-         "albumId":34,
+         "albumId":15,
          "title":"Rochas e ondas",
          "description":"Ondas batendo nas rochas.",
          "url":"https://picsum.photos/id/1116/600/400",
@@ -322,7 +314,7 @@
       },
       {
          "id":47,
-         "albumId":34,
+         "albumId":15,
          "title":"Barco à deriva",
          "description":"Pequeno barco no mar calmo.",
          "url":"https://picsum.photos/id/1117/600/400",
@@ -330,7 +322,7 @@
       },
       {
          "id":48,
-         "albumId":34,
+         "albumId":16,
          "title":"Farol à noite",
          "description":"Farol iluminando o mar.",
          "url":"https://picsum.photos/id/1118/600/400",
@@ -338,7 +330,7 @@
       },
       {
          "id":49,
-         "albumId":35,
+         "albumId":16,
          "title":"Montanha coberta de neve",
          "description":"Pico com neve branca.",
          "url":"https://picsum.photos/id/1119/600/400",
@@ -354,7 +346,7 @@
       },
       {
          "id":51,
-         "albumId":35,
+         "albumId":16,
          "title":"Rio cristalino",
          "description":"Água clara entre pedras.",
          "url":"https://picsum.photos/id/1121/600/400",
@@ -362,7 +354,7 @@
       },
       {
          "id":52,
-         "albumId":35,
+         "albumId":17,
          "title":"Campo verdejante",
          "description":"Pastagem ampla sob o céu azul.",
          "url":"https://picsum.photos/id/1122/600/400",
@@ -370,3 +362,4 @@
       }
    ]
 }
+
