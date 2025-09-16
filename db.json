@@ -127,8 +127,74 @@
          "description":"Cena de uma praia.",
          "url":"https://picsum.photos/id/1065/600/400",
          "thumbnailUrl":"https://picsum.photos/id/1065/200/120"
-      }
+      },
+      {
+  "id": 17,
+  "albumId": 21,
+  "title": "Trilha na floresta",
+  "description": "Caminho em meio às árvores.",
+  "url": "https://picsum.photos/id/1070/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1070/200/120"
+},
+{
+  "id": 18,
+  "albumId": 21,
+  "title": "Rio sereno",
+  "description": "Água corrente em meio às pedras.",
+  "url": "https://picsum.photos/id/1074/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1074/200/120"
+},
+{
+  "id": 19,
+  "albumId": 22,
+  "title": "Cidade noturna",
+  "description": "Luzes da cidade ao anoitecer.",
+  "url": "https://picsum.photos/id/1080/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1080/200/120"
+},
+{
+  "id": 20,
+  "albumId": 22,
+  "title": "Ponte iluminada",
+  "description": "Ponte com iluminação noturna.",
+  "url": "https://picsum.photos/id/1084/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1084/200/120"
+},
+{
+  "id": 21,
+  "albumId": 23,
+  "title": "Céu estrelado",
+  "description": "Fotografia noturna do céu.",
+  "url": "https://picsum.photos/id/1085/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1085/200/120"
+},
+{
+  "id": 22,
+  "albumId": 23,
+  "title": "Lago refletindo estrelas",
+  "description": "Água calma refletindo o céu noturno.",
+  "url": "https://picsum.photos/id/1089/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1089/200/120"
+},
+{
+  "id": 23,
+  "albumId": 24,
+  "title": "Campo de girassóis",
+  "description": "Flores ao sol no verão.",
+  "url": "https://picsum.photos/id/1090/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1090/200/120"
+},
+{
+  "id": 24,
+  "albumId": 24,
+  "title": "Fazenda rural",
+  "description": "Paisagem agrícola.",
+  "url": "https://picsum.photos/id/1094/600/400",
+  "thumbnailUrl": "https://picsum.photos/id/1094/200/120"
+}
+
    ]
 
 }
+
 
