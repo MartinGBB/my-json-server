@@ -275,10 +275,112 @@
       "description": "Água corrente entre pedras.",
       "url": "https://picsum.photos/id/1110/600/400",
       "thumbnailUrl": "https://picsum.photos/id/1110/200/120"
+    },
+     {
+  "photos": [
+    ... (as fotos existentes, IDs 1–40) ...,
+    // Novos álbuns
+    {
+      "id": 41,
+      "albumId": 33,
+      "title": "Jardim florido",
+      "description": "Flores coloridas em um jardim.",
+      "url": "https://picsum.photos/id/1111/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1111/200/120"
+    },
+    {
+      "id": 42,
+      "albumId": 33,
+      "title": "Caminho arborizado",
+      "description": "Trilha cercada de árvores.",
+      "url": "https://picsum.photos/id/1112/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1112/200/120"
+    },
+    {
+      "id": 43,
+      "albumId": 33,
+      "title": "Lago sereno",
+      "description": "Água tranquila refletindo o céu.",
+      "url": "https://picsum.photos/id/1113/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1113/200/120"
+    },
+    {
+      "id": 44,
+      "albumId": 33,
+      "title": "Pôr do sol na colina",
+      "description": "Sol se pondo em um vale.",
+      "url": "https://picsum.photos/id/1114/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1114/200/120"
+    },
+    {
+      "id": 45,
+      "albumId": 34,
+      "title": "Praia ao amanhecer",
+      "description": "Areia e mar com o sol nascente.",
+      "url": "https://picsum.photos/id/1115/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1115/200/120"
+    },
+    {
+      "id": 46,
+      "albumId": 34,
+      "title": "Rochas e ondas",
+      "description": "Ondas batendo nas rochas.",
+      "url": "https://picsum.photos/id/1116/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1116/200/120"
+    },
+    {
+      "id": 47,
+      "albumId": 34,
+      "title": "Barco à deriva",
+      "description": "Pequeno barco no mar calmo.",
+      "url": "https://picsum.photos/id/1117/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1117/200/120"
+    },
+    {
+      "id": 48,
+      "albumId": 34,
+      "title": "Farol à noite",
+      "description": "Farol iluminando o mar.",
+      "url": "https://picsum.photos/id/1118/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1118/200/120"
+    },
+    {
+      "id": 49,
+      "albumId": 35,
+      "title": "Montanha coberta de neve",
+      "description": "Pico com neve branca.",
+      "url": "https://picsum.photos/id/1119/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1119/200/120"
+    },
+    {
+      "id": 50,
+      "albumId": 35,
+      "title": "Trilha na floresta",
+      "description": "Caminho cercado de árvores verdes.",
+      "url": "https://picsum.photos/id/1120/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1120/200/120"
+    },
+    {
+      "id": 51,
+      "albumId": 35,
+      "title": "Rio cristalino",
+      "description": "Água clara entre pedras.",
+      "url": "https://picsum.photos/id/1121/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1121/200/120"
+    },
+    {
+      "id": 52,
+      "albumId": 35,
+      "title": "Campo verdejante",
+      "description": "Pastagem ampla sob o céu azul.",
+      "url": "https://picsum.photos/id/1122/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1122/200/120"
     }
-   ]
-
+  ]
 }
+   ]
+}
+
 
 
 
